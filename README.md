@@ -1,5 +1,5 @@
 
-###Hi, I'm Dang Khoa ✋ (but my friend call me Pika ![pika](https://github.com/Pika0546/Pika0546/blob/main/img/pikachu.png))
+###Hi, I'm Dang Khoa ✋ (but my friend call me Pika ![pika](https://github.com/Pika0546/Pika0546/blob/main/img/pikachu.png = 32x32))
 
 <!--
 **Pika0546/Pika0546** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
