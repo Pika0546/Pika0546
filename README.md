@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pika0546&label=Profile%20views&color=0e75b6&style=flat" alt="pika0546" /> </p>
 
 
-- 🌱 I’m currently learning **ReactJS, Next.js**
+- 🌱 I’m currently learning **ReactJS, Next.js, Node.js**
 
 - 👨‍💻 All of my projects are available at [https://pika0546.github.io/dangkhoa/](https://pika0546.github.io/dangkhoa/)
 
-- 💬 Ask me about **HTML, CSS, Javascript, ReactJS**
+- 💬 Ask me about **HTML, CSS, Javascript, ReactJS, Next.js, Node.js**
 
 - 📫 How to reach me **dangkhoa.it.23@gmail.com**
 
